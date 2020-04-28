@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: yellow;
+  font-size: 50px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+input {
+	background-color: red;
+	color: white;
+	font-size: 20px;
+}
